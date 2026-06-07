@@ -5,5 +5,4 @@ matplotlib==3.8.4
 scipy==1.13.1
 librosa==0.10.2
 soundfile
-audioread
 dtw-python

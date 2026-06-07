@@ -1,11 +1,10 @@
 streamlit
 numpy==1.26.4
 pandas==2.2.2
-matplotlib
+matplotlib==3.8.4
+scipy==1.13.1
 librosa==0.10.2
-dtw-python
-scipy
 soundfile
 audioread
-numba
 scikit-learn
+dtw-python
